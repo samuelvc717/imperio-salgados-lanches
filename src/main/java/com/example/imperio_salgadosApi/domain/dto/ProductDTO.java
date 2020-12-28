@@ -14,7 +14,7 @@ public class ProductDTO {
     private String url_foto;
     private String url_video;
     private String price;
-    private String imageCategory;
+    private String image_category;
     private String category;
 
     /*public ProductDTO(Product p) {

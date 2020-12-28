@@ -20,7 +20,7 @@ public class Product {
     private String url_foto;
     private String url_video;
     private String price;
-    private String image_category;
+    private String imageCategory;
     private String category;
 
 
