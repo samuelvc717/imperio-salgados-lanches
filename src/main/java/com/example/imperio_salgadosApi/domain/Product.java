@@ -19,7 +19,7 @@ public class Product {
     private String descricaoP;
     private String url_foto;
     private String url_video;
-    private String price ;
+    private String price;
     private String imageCategory;
     private String category;
 
