@@ -1,0 +1,13 @@
+com\example\imperio_salgadosApi\domain\User.class
+com\example\imperio_salgadosApi\api\security\SecurityConfig.class
+com\example\imperio_salgadosApi\api\security\UserDetailServicempl.class
+com\example\imperio_salgadosApi\domain\Role.class
+com\example\imperio_salgadosApi\ImperioSalgadosApiApplication.class
+com\example\imperio_salgadosApi\domain\dto\ProductDTO.class
+com\example\imperio_salgadosApi\domain\ProductRepository.class
+com\example\imperio_salgadosApi\api\exeption\ExeptionCofig.class
+com\example\imperio_salgadosApi\domain\ProductService.class
+com\example\imperio_salgadosApi\domain\UserRepository.class
+com\example\imperio_salgadosApi\api\ProductController.class
+com\example\imperio_salgadosApi\domain\Product.class
+com\example\imperio_salgadosApi\api\IndexController.class
